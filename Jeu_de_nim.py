@@ -2,7 +2,7 @@ def display_welcome_message():
     print("///////////////////////////////////////")
     print("//////////// LE JEU DE NIM ////////////")
     print("///////////////////////////////////////")
-    print("*         développé par : hepat       *")
+    print("*         développé par : aroznie     *")
     print("///////////////////////////////////////")
     print("\n")
  
